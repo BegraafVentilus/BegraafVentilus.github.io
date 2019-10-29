@@ -8,10 +8,11 @@ published: true
 tags: ["Provincie"]
 author: Begraaf Ventilus
 ---
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/media/posts/2019-06-20_ProvincieTegenHoogspanning.png)
+![Provincie tegen hoogspanning]({{ site.url }}{{ site.baseurl }}/assets/media/posts/2019-06-20_ProvincieTegenHoogspanning.png)
 
-This post should display a **header with a solid background color**, if the theme supports it.
+De provincie West-Vlaanderen heeft advies uitgebracht aan de Vlaamse overheid over de aanleg van een nieuwe hoogspanningslijn tussen de zee en het binnenland.
 
-Non-square images can provide some unique styling issues.
-
-This post tests overlay headers.
+Persberichten in verband met dit gebeuren kunt u hier vinden:
+- [Het Laatste Nieuws](https://www.hln.be/in-de-buurt/zedelgem/provincie-wil-nieuwe-hoogspanningslijn-onder-de-grond~a1e7fce1/){:target="_blank"}
+- [Focus WTV](https://www.focus-wtv.be/nieuws/provincie-brengt-advies-uit-over-ventilusproject){:target="_blank"}
+- [Nieuwsblad](https://www.nieuwsblad.be/cnt/dmf20190621_04471658){:target="_blank"}

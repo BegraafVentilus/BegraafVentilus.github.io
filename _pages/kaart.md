@@ -2,6 +2,7 @@
 layout: single
 permalink: /kaart/
 title: "Kaart"
+classes: wide
 ---
 
 Onderstaande kaart visualiseert de zoekzone voor de Ventilus hoogspanningsmasten doorheen West-Vlaanderen.
