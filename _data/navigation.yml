@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Ons standpunt"
+    url: /ons-standpunt/
+  - title: "Kaart"
+    url: /kaart/
+  - title: "Contact"
+    url: /contact/
