@@ -36,7 +36,6 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Lees verder"
 ---
+{% include feature_row id="feature_row" %}
 
 Oudere nieuwsberichten kunt u vinden in het [archief]({{ '/nieuwsarchief/' | relative_url }}).
-
-{% include feature_row id="feature_row" %}

@@ -1,0 +1,11 @@
+Begraaf Ventilus:
+  name        : "Begraaf Ventilus"
+  bio         : "Duurzame energie vraagt duurzaam transport."
+  avatar      : "/assets/media/Avatar_BegraafVentilus.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:VentilusZedelgem@gmail.com"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/burgerplatformbegraafventilus"
