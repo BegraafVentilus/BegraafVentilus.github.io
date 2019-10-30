@@ -9,7 +9,6 @@ published: true
 author: Begraaf Ventilus
 ---
 ![Provincie tegen hoogspanning]({{ site.url }}{{ site.baseurl }}/assets/media/posts/2019-06-17_6burgemeestersTegenVentilus.jpg)
-
 De burgemeesters van Brugge, Zedelgem, Torhout, Oostkamp, Wingene en Lichtervelde kanten zich tegen nieuwe hoogspanningslijnen in hun gemeente.
 
 Persberichten in verband met dit gebeuren kunt u hier vinden:

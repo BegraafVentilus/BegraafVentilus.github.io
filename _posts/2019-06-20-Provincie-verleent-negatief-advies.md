@@ -8,8 +8,7 @@ published: true
 tags: ["Provincie"]
 author: Begraaf Ventilus
 ---
-![Provincie tegen hoogspanning]({{ site.url }}{{ site.baseurl }}/assets/media/posts/2019-06-20_ProvincieTegenHoogspanning.png)
-
+![Provincie tegen hoogspanning]({{ site.url }}{{ site.baseurl }}/assets/media/posts/2019-06-20_ProvincieTegenHoogspanning.jpg)
 De provincie West-Vlaanderen heeft advies uitgebracht aan de Vlaamse overheid over de aanleg van een nieuwe hoogspanningslijn tussen de zee en het binnenland.
 
 Persberichten in verband met dit gebeuren kunt u hier vinden:

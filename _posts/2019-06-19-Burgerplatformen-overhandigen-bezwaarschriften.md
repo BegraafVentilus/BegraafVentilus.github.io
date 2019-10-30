@@ -9,7 +9,6 @@ published: true
 author: Begraaf Ventilus
 ---
 ![Provincie tegen hoogspanning]({{ site.url }}{{ site.baseurl }}/assets/media/posts/2019-06-19_BurgerplatformenOverhandigenBezwaarschriften.jpg)
-
 De Burgerplatforms Leefbaar E403 en Begraaf Ventilus hebben in het bijzijn van honderd bezorgde bewoners meer dan 2.500 suggesties, vragen, bezorgdheden en bezwaren over hoogspanningslijn Ventilus bezorgd aan de zeven betrokken gemeentebesturen.
 
 Persberichten in verband met dit gebeuren kunt u hier vinden:
