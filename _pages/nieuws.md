@@ -1,9 +1,8 @@
 ---
 layout: splash
-permalink: /
-header:
-  image: /assets/media/home/main3_with_text.jpg
-feature_row_left:
+permalink: /nieuws/
+title: "Nieuws"
+feature_row:
   - image_path: /assets/media/home/ProvincieTegenHoogspanning.png
     image_caption: "20 Juni, 2019"
     alt: "Provincie verleent Ventilus negatief advies"
@@ -12,7 +11,6 @@ feature_row_left:
     url: "/_posts/2019-06-20-Provincie-verleent-negatief-advies/"
     btn_class: "btn--primary"
     btn_label: "Lees verder"
-feature_row:
   - image_path: /assets/media/home/Actiegroepenoverhandigenbezwaren.jpg
     image_caption: "19 Juni, 2019"
     alt: "Burgerplatformen overhandigen bezwaarschriften"
@@ -39,5 +37,6 @@ feature_row:
     btn_label: "Lees verder"
 ---
 
-{% include feature_row id="feature_row_left" type="left" %}
-{% include feature_row %}
+Oudere nieuwsberichten kunt u vinden in het [archief]({{ '/nieuwsarchief/' | relative_url }}).
+
+{% include feature_row id="feature_row" %}

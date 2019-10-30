@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Nieuws"
+    url: /nieuws/
   - title: "Ons standpunt"
     url: /ons-standpunt/
   - title: "Kaart"

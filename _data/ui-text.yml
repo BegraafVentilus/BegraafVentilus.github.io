@@ -861,7 +861,7 @@ nl: &DEFAULT_NL
   comments_title             : "Commentaren"
   more_label                 : "Meer informatie"
   related_label              : "Bekijk ook eens"
-  follow_label               : "Volg ons:"
+  follow_label               : ""
   feed_label                 : "Feed"
   powered_by                 : ""
   website_label              : "Website"
