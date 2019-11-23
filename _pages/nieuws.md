@@ -3,6 +3,38 @@ layout: splash
 permalink: /nieuws/
 title: "Nieuws"
 feature_row:
+  - image_path: /assets/media/posts/2019-06-28_LendeledeNegatiefAdvies.jpg
+    image_caption: "28 Juni, 2019"
+    alt: "Lendelede mengt zich in Ventilus-debat: “Geen nieuwe hoogspanningsmasten op ons grondgebied”"
+    title: "Lendelede mengt zich in Ventilus-debat: “Geen nieuwe hoogspanningsmasten op ons grondgebied”"
+    excerpt: "Lendelede heeft als een van de laatste van de 25 betrokken gemeentes advies verleend aan de overheid omtrent de plannen met de Ventilus-hoogspanningslijn. Die zou dwars door de provincie lopen en duurzame energie van windparken aan zee naar het binnenland transporteren. “Wij hebben al meer dan ons deel aan hoogspanningsleidingen, bijkomende lijnen zijn uit den boze zijn”, sprak burgemeester Carine Dewaele op de gemeenteraad. "
+    url: "/nieuws/2019-06-28-Lendelede-negatief-advies/"
+    btn_class: "btn--primary"
+    btn_label: "Lees verder"
+  - image_path: /assets/media/posts/2019-06-25_PittemtegenVentilusProject.jpg
+    image_caption: "25 Juni, 2019"
+    alt: "Ook schepencollege Pittem gekant tegen Ventilusproject"
+    title: "Ook schepencollege Pittem gekant tegen Ventilusproject"
+    excerpt: "De gemeente Pittem sluit zich aan bij Zedelgem, Brugge, Torhout, Wingene, Lichtervelde, Oostkamp, Izegem, Ardooie en Roeselare en geeft een negatief advies aan het Ventilus-hoogspanningsproject. Pittem laat van zich horen omdat de bestaande hoogspanningslijnen in de gemeente mogelijk geüpgraded zouden worden door het Ventilusproject."
+    url: "/nieuws/2019-06-25-schepencollege-Pittem-gekant-tegen-Ventilusproject/"
+    btn_class: "btn--primary"
+    btn_label: "Lees verder"
+  - image_path: /assets/media/posts/2019-06-21_IzegemEistOndergronds.jpg
+    image_caption: "21 Juni, 2019"
+    alt: "Stad eist dat Ventilus-hoogspanning in Izegem ondergronds gaat"
+    title: "Stad eist dat Ventilus-hoogspanning in Izegem ondergronds gaat"
+    excerpt: "Het stadsbestuur van Izegem bekent nu ook kleur omtrent het Ventilus-hoogspanningsproject. Ze wil dat de nieuwe verbinding op zijn grondgebied helemaal ondergronds wordt aangelegd. Dat werd duidelijk op de Commissie Openbare Werken en Mobiliteit. Vijftig bezorgde burgers kwamen met spandoeken luisteren."
+    url: "/nieuws/2019-06-21-Izegem-eist-ondergronds-traject/"
+    btn_class: "btn--primary"
+    btn_label: "Lees verder"
+  - image_path: /assets/media/posts/2019-06-20_MeulebekeIngelmunsterNegatiefAdvies.jpg
+    image_caption: "20 Juni, 2019"
+    alt: "Ook Meulebeke en Ingelmunster geven negatief advies over Ventilus-project: “Traject via waterwegen of ondergronds is beter”"
+    title: "Ook Meulebeke en Ingelmunster geven negatief advies over Ventilus-project: “Traject via waterwegen of ondergronds is beter”"
+    excerpt: "Het protest rond het Ventilus-hoogspanningsproject door onze provincie blijft groeien. Een van de mogelijke scenario’s is dat de hoogspanningskabels via Ardooie en Pittem over Meulebeeks en Ingelmunsters grondgebied naar het transformatiestation op de grens van Izegem en Lendelede loopt. Ook Meulebeke en Ingelmunster adviseren nu negatief."
+    url: "/nieuws/2019-06-20-Meulebeke-en-Ingelmunster-negatief-advies/"
+    btn_class: "btn--primary"
+    btn_label: "Lees verder"
   - image_path: /assets/media/home/ProvincieTegenHoogspanning.png
     image_caption: "20 Juni, 2019"
     alt: "Provincie verleent Ventilus negatief advies"
@@ -41,6 +73,14 @@ feature_row:
     title: "Gemeente Jabbeke geeft negatief advies"
     excerpt: "Gemeente Jabbeke verleend negatief advies aan de Vlaamse overheid omtrent project Ventilus."
     url: "/nieuws/2019-06-05-Gemeente-Jabbeke-negatief-advies/"
+    btn_class: "btn--primary"
+    btn_label: "Lees verder"
+  - image_path: /assets/media/posts/2019-05-28_ArdooieTegenHoogspanning.jpg
+    image_caption: "28 Mei, 2019"
+    alt: "Ook Ardooie gekant tegen komst hoogspanningslijn langs E403"
+    title: "Ook Ardooie gekant tegen komst hoogspanningslijn langs E403"
+    excerpt: "De plannen om hoogspanningslijn Ventilus langs de E403 aan te leggen en dus ook over Ardoois grondgebied te laten passeren, valt niet in goede aarde bij meerderheid en oppositie."
+    url: "/nieuws/2019-05-28-Ardooie-tegen-hoogspanning/"
     btn_class: "btn--primary"
     btn_label: "Lees verder"
   - image_path: /assets/media/posts/2019-05-23_PetitieGemeenteZedelgem.jpg
