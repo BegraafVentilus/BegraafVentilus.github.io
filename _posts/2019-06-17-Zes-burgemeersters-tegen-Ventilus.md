@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /_posts/2019-06-17-Zes-burgemeersters-tegen-Ventilus/
+permalink: /nieuws/2019-06-17-Zes-burgemeersters-tegen-Ventilus/
 title: "6 burgemeesters kanten zich tegen Ventilus"
 date: 2019-06-17 12:00:00 +0000
 published: true

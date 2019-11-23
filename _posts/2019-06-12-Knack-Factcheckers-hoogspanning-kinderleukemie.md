@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /_posts/2019-06-12-Knack-Factcheckers-hoogspanning-kinderleukemie/
+permalink: /nieuws/2019-06-12-Knack-Factcheckers-hoogspanning-kinderleukemie/
 title: "Knack Factcheckers: hoogspanning & kinderleukemie"
 date: 2019-06-12 12:00:00 +0000
 published: true

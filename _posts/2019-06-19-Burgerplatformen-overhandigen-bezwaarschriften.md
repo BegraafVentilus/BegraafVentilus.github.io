@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /_posts/2019-06-19-Burgerplatformen-overhandigen-bezwaarschriften/
+permalink: /nieuws/2019-06-19-Burgerplatformen-overhandigen-bezwaarschriften/
 title: "Burgerplatformen overhandigen bezwaarschriften"
 date: 2019-06-19 12:00:00 +0000
 published: true

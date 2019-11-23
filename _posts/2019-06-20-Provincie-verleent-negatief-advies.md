@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /_posts/2019-06-20-Provincie-verleent-negatief-advies/
+permalink: /nieuws/2019-06-20-Provincie-verleent-negatief-advies/
 title: "Provincie verleent negatief advies"
 date: 2019-06-20 12:00:00 +0000
 published: true
