@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /nieuws/2019-08-03-als-een-bioboer-in-een-oude-diesel/
-title: " Als een bioboer in een oude diesel "
+title: "Als een bioboer in een oude diesel"
 date: 2019-08-03 12:00:00 +0000
 published: true
 # categories: ["None"]
@@ -9,7 +9,7 @@ tags: ["Zedelgem"]
 author: Begraaf Ventilus
 ---
 ![Lendelede negatief advies]({{ site.url }}{{ site.baseurl }}/assets/media/posts/2019-08-03_BioboerOudeDiesel.jpg)
-Is het echt onbetaalbaar om op een ecologische manier groene stroom te vervoeren? Lieven Vandamme, lid van Begraaf Ventilus gelooft het niet.
+Is het echt onbetaalbaar om op een ecologische manier groene stroom te vervoeren? Lieven Vandamme, lid van Begraaf Ventilus, gelooft het niet.
 
 Graag wil ik als populistische groene jongen uit Zedelgem met een conservatieve opvatting over het platteland reageren op Jonas Laveyne. Zijn bijdrage over het Ventilusproject, dat hoogspanningslijnen in West-Vlaanderen aanlegt, bevat heel wat stereotypen waar wij ons niet in herkennen ([DS 30 juli](https://www.standaard.be/cnt/dmf20190729_04534241){:target="_blank"}). Niet alle protest uit Zedelgem komt van ‘de groenen’. De groene partij is uiteraard helemaal niet gekant tegen het ontsluiten van groene energie uit de Noordzee. In Zedelgem is men ook helemaal niet tegen de vooruitgang. Het zal sterk verbazen, maar ook hier wonen ingenieurs. Ook hier wonen mensen die in staat zijn om literatuur te lezen die het niveau van pseudowetenschappelijk gewauwel overstijgt
 
