@@ -3,6 +3,14 @@ layout: splash
 permalink: /nieuws/
 title: "Nieuws"
 feature_row:
+  - image_path: /assets/media/posts/2019-08-03_BioboerOudeDiesel.jpg
+    image_caption: "3 Augustus, 2019"
+    alt: "Als een bioboer in een oude diesel"
+    title: "Als een bioboer in een oude diesel"
+    excerpt: "Is het echt onbetaalbaar om op een ecologische manier groene stroom te vervoeren? Lieven Vandamme, lid van Begraaf Ventilus gelooft het niet."
+    url: "/nieuws/2019-08-03-als-een-bioboer-in-een-oude-diesel/"
+    btn_class: "btn--primary"
+    btn_label: "Lees verder"
   - image_path: /assets/media/posts/2019-06-28_LendeledeNegatiefAdvies.jpg
     image_caption: "28 Juni, 2019"
     alt: "Lendelede mengt zich in Ventilus-debat: “Geen nieuwe hoogspanningsmasten op ons grondgebied”"
@@ -99,7 +107,12 @@ feature_row:
     url: "/nieuws/2019-05-22-Onrust-bewoners-Zedelgem/"
     btn_class: "btn--primary"
     btn_label: "Lees verder"
+  - image_path: /assets/media/posts/2019-00-00_Archief.jpg
+    alt: "Archief"
+    title: "Archief"
+    excerpt: "Oudere nieuwsberichten kunt u vinden in ons archief."
+    url: "/nieuwsarchief/"
+    btn_class: "btn--primary"
+    btn_label: "Bekijk het archief"
 ---
 {% include feature_row id="feature_row" %}
-
-Oudere nieuwsberichten kunt u vinden in het [archief]({{ '/nieuwsarchief/' | relative_url }}).
