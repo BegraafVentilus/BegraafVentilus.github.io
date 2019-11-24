@@ -8,7 +8,7 @@ feature_row_center:
     image_caption: "3 Augustus, 2019"
     alt: "Als een bioboer in een oude diesel"
     title: "Als een bioboer in een oude diesel"
-    excerpt: "Is het echt onbetaalbaar om op een ecologische manier groene stroom te vervoeren? Lieven Vandamme, lid van Begraaf Ventilus gelooft het niet."
+    excerpt: "Is het echt onbetaalbaar om op een ecologische manier groene stroom te vervoeren? Lieven Vandamme, lid van Begraaf Ventilus, gelooft het niet."
     url: "/nieuws/2019-08-03-als-een-bioboer-in-een-oude-diesel/"
     btn_class: "btn--primary"
     btn_label: "Lees verder"
