@@ -16,8 +16,12 @@ De volledige inhoud van de petitie kunt u [hier](/assets/media/posts/2019-05-23_
 > Eigenlijk is dit niet de normale gang van zaken… maar een kunstgreep, waarbij op de goodwill van burgemeester en/of voorzitter de gemeenteraad wordt gerekend. Als er meer dan 50 burgers vinden dat het beleid van de gemeente voor verandering vatbaar is, kan een motie worden ingediend. Voor de wettelijk vastgelegde termijnen zijn we helaas onherroepelijk te laat, dit doordat we slechts onlangs via via zijn te weten gekomen over de mogelijkse komst van project Ventilus en bijhorende spanningmasten in onze leefomgeving.
 
 Focus was ter plaatse en maakte onderstaande reportage:
-
-<iframe width="600" height="375" src="//player.cdn01.rambla.be?account_id=VzaPKg&amp;item_id=24ooOv" frameborder="0" ></iframe>
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+  <iframe width="600" height="375" src="//player.cdn01.rambla.be?account_id=VzaPKg&amp;item_id=24ooOv" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
 Het nieuwsbericht van Focus WTV vind u [hier](
 https://www.focus-wtv.be/nieuws/protest-tegen-hoogspanningslijn-voor-gemeenteraad){:target="_blank"}.
