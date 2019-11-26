@@ -22,4 +22,4 @@ Het is mogelijk om meer informatie te verkrijgen door te klikken op één van de
 
 Disclaimer: bovenstaande kaart werd opgebouwd aan de hand van documenten te vinden op de site van [Departement omgeving Vlaanderen](https://www.ruimtevlaanderen.be/NL/Diensten/GRUPS/GRUPS-Detail/rid/RUP_02000_212_00513_00001){:target="_blank"} en is dus een zo'n nauwkeurig gemaakte benadering van officiële documenten daar te vinden. Aangezien het Ventilus traject nog onderhevig kan zijn aan verandering word niet gerarandeerd dat bovenstaande kaart ten alle tijde nauwkeurig is.
 
-Kaart laatst bijgewerkt: 3 juni 2019 (Ventilus bundeling met E403 toegevoegd)
+Kaart laatst bijgewerkt: 16 Oktober 2019 (Ventilus herbruikt bestaande masten doorheen Jabbeke toegevoegd)
