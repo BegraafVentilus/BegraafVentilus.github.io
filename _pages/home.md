@@ -21,7 +21,7 @@ feature_row:
     url: "/nieuws/2019-06-20-Provincie-verleent-negatief-advies/"
     btn_class: "btn--primary"
     btn_label: "Lees verder"
-  - image_path: /assets/media/home/6burgemeestersTegenVentilus.jpg
+  - image_path: /assets/media/posts/2019-06-17_6burgemeestersTegenVentilus.jpg
     image_caption: "17 Juni, 2019"
     alt: "6 burgemeesters kanten zich tegen Ventilus"
     title: "6 burgemeesters kanten zich tegen Ventilus"
