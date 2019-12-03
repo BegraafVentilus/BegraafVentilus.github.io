@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-  image: /assets/media/home/main3_with_text.jpg
+  image: /assets/media/home/MainImage.png
 feature_row_center:
   - image_path: /assets/media/posts/2019-08-03_BioboerOudeDiesel.jpg
     image_caption: "3 Augustus, 2019"
@@ -13,7 +13,7 @@ feature_row_center:
     btn_class: "btn--primary"
     btn_label: "Lees verder"
 feature_row:
-  - image_path: /assets/media/home/ProvincieTegenHoogspanning.png
+  - image_path: /assets/media/posts/2019-06-20_ProvincieTegenHoogspanning.png
     image_caption: "20 Juni, 2019"
     alt: "Provincie verleent Ventilus negatief advies"
     title: "Provincie verleent Ventilus negatief advies"
@@ -29,7 +29,7 @@ feature_row:
     url: "/nieuws/2019-06-17-Zes-burgemeersters-tegen-Ventilus/"
     btn_class: "btn--primary"
     btn_label: "Lees verder"
-  - image_path: /assets/media/home/FactcheckKinderleukemieHoogspanning.jpg
+  - image_path: /assets/media/posts/2019-06-12_FactcheckKinderleukemieHoogspanning.jpg
     image_caption: "12 Juni, 2019"
     alt: "Knack Factcheckers: hoogspanning & kinderleukemie"
     title: "Knack Factcheckers: hoogspanning & kinderleukemie"
