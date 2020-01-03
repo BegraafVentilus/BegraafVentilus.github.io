@@ -5,10 +5,10 @@ title: "Nieuws"
 feature_row:
   - image_path: /assets/media/posts/2020-01-03_StatusUpdate.jpg
     image_caption: "3 januari, 2020"
-    alt: "Status update"
-    title: "Status update"
+    alt: "Stand van zaken"
+    title: "Stand van zaken"
     excerpt: "Bij het begin van dit nieuwe jaar geven we jullie graag een korte update rond de activiteit in het Ventilus project."
-    url: "/nieuws/2020-01-03-Status-update/"
+    url: "/nieuws/2020-01-03-Stand-van-zaken/"
     btn_class: "btn--primary"
     btn_label: "Lees verder"
   - image_path: /assets/media/posts/2019-08-03_BioboerOudeDiesel.jpg

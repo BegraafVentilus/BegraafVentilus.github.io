@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /nieuws/2020-01-03-Status-update/
-title: "Status update"
+permalink: /nieuws/2020-01-03-Stand-van-zaken/
+title: "Stand van zaken"
 date: 2020-01-03 12:00:00 +0000
 published: true
 # categories: ["None"]
