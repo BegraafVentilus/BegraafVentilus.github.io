@@ -3,8 +3,16 @@ layout: splash
 permalink: /nieuws/
 title: "Nieuws"
 feature_row:
+  - image_path: /assets/media/posts/2020-01-03_StatusUpdate.jpg
+    image_caption: "3 januari, 2020"
+    alt: "Status update"
+    title: "Status update"
+    excerpt: "Bij het begin van dit nieuwe jaar geven we jullie graag een korte update rond de activiteit in het Ventilus project."
+    url: "/nieuws/2020-01-03-Status-update/"
+    btn_class: "btn--primary"
+    btn_label: "Lees verder"
   - image_path: /assets/media/posts/2019-08-03_BioboerOudeDiesel.jpg
-    image_caption: "3 Augustus, 2019"
+    image_caption: "3 augustus, 2019"
     alt: "Als een bioboer in een oude diesel"
     title: "Als een bioboer in een oude diesel"
     excerpt: "Is het echt onbetaalbaar om op een ecologische manier groene stroom te vervoeren? Lieven Vandamme, lid van Begraaf Ventilus gelooft het niet."
@@ -12,7 +20,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Lees verder"
   - image_path: /assets/media/posts/2019-06-28_LendeledeNegatiefAdvies.jpg
-    image_caption: "28 Juni, 2019"
+    image_caption: "28 juni, 2019"
     alt: "Lendelede mengt zich in Ventilus-debat: “Geen nieuwe hoogspanningsmasten op ons grondgebied”"
     title: "Lendelede mengt zich in Ventilus-debat: “Geen nieuwe hoogspanningsmasten op ons grondgebied”"
     excerpt: "Lendelede heeft als een van de laatste van de 25 betrokken gemeentes advies verleend aan de overheid omtrent de plannen met de Ventilus-hoogspanningslijn. Die zou dwars door de provincie lopen en duurzame energie van windparken aan zee naar het binnenland transporteren. “Wij hebben al meer dan ons deel aan hoogspanningsleidingen, bijkomende lijnen zijn uit den boze zijn”, sprak burgemeester Carine Dewaele op de gemeenteraad. "
@@ -20,7 +28,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Lees verder"
   - image_path: /assets/media/posts/2019-06-25_PittemtegenVentilusProject.jpg
-    image_caption: "25 Juni, 2019"
+    image_caption: "25 juni, 2019"
     alt: "Ook schepencollege Pittem gekant tegen Ventilusproject"
     title: "Ook schepencollege Pittem gekant tegen Ventilusproject"
     excerpt: "De gemeente Pittem sluit zich aan bij Zedelgem, Brugge, Torhout, Wingene, Lichtervelde, Oostkamp, Izegem, Ardooie en Roeselare en geeft een negatief advies aan het Ventilus-hoogspanningsproject. Pittem laat van zich horen omdat de bestaande hoogspanningslijnen in de gemeente mogelijk geüpgraded zouden worden door het Ventilusproject."
@@ -28,7 +36,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Lees verder"
   - image_path: /assets/media/posts/2019-06-21_IzegemEistOndergronds.jpg
-    image_caption: "21 Juni, 2019"
+    image_caption: "21 juni, 2019"
     alt: "Stad eist dat Ventilus-hoogspanning in Izegem ondergronds gaat"
     title: "Stad eist dat Ventilus-hoogspanning in Izegem ondergronds gaat"
     excerpt: "Het stadsbestuur van Izegem bekent nu ook kleur omtrent het Ventilus-hoogspanningsproject. Ze wil dat de nieuwe verbinding op zijn grondgebied helemaal ondergronds wordt aangelegd. Dat werd duidelijk op de Commissie Openbare Werken en Mobiliteit. Vijftig bezorgde burgers kwamen met spandoeken luisteren."
@@ -36,7 +44,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Lees verder"
   - image_path: /assets/media/posts/2019-06-20_MeulebekeIngelmunsterNegatiefAdvies.jpg
-    image_caption: "20 Juni, 2019"
+    image_caption: "20 juni, 2019"
     alt: "Ook Meulebeke en Ingelmunster geven negatief advies over Ventilus-project: “Traject via waterwegen of ondergronds is beter”"
     title: "Ook Meulebeke en Ingelmunster geven negatief advies over Ventilus-project: “Traject via waterwegen of ondergronds is beter”"
     excerpt: "Het protest rond het Ventilus-hoogspanningsproject door onze provincie blijft groeien. Een van de mogelijke scenario’s is dat de hoogspanningskabels via Ardooie en Pittem over Meulebeeks en Ingelmunsters grondgebied naar het transformatiestation op de grens van Izegem en Lendelede loopt. Ook Meulebeke en Ingelmunster adviseren nu negatief."
@@ -44,7 +52,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Lees verder"
   - image_path: /assets/media/posts/2019-06-20_ProvincieTegenHoogspanning.png
-    image_caption: "20 Juni, 2019"
+    image_caption: "20 juni, 2019"
     alt: "Provincie verleent Ventilus negatief advies"
     title: "Provincie verleent Ventilus negatief advies"
     excerpt: "De provincie West-Vlaanderen heeft advies uitgebracht aan de Vlaamse overheid over de aanleg van een nieuwe hoogspanningslijn tussen de zee en het binnenland."
@@ -52,7 +60,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Lees verder"
   - image_path: /assets/media/posts/2019-06-19_BurgerplatformenOverhandigenBezwaarschriften.jpg
-    image_caption: "19 Juni, 2019"
+    image_caption: "19 juni, 2019"
     alt: "Burgerplatformen overhandigen bezwaarschriften"
     title: "Burgerplatformen overhandigen bezwaarschriften"
     excerpt: "De Burgerplatforms Leefbaar E403 en Begraaf Ventilus hebben in het bijzijn van honderd bezorgde bewoners meer dan 2.500 suggesties, vragen, bezorgdheden en bezwaren over hoogspanningslijn Ventilus bezorgd aan de zeven betrokken gemeentebesturen. "
@@ -60,7 +68,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Lees verder"
   - image_path: /assets/media/posts/2019-06-17_6burgemeestersTegenVentilus.jpg
-    image_caption: "17 Juni, 2019"
+    image_caption: "17 juni, 2019"
     alt: "6 burgemeesters kanten zich tegen Ventilus"
     title: "6 burgemeesters kanten zich tegen Ventilus"
     excerpt: "De burgemeesters van Brugge, Zedelgem, Torhout, Oostkamp, Wingene en Lichtervelde kanten zich tegen nieuwe hoogspanningslijnen in hun gemeente. "
@@ -68,7 +76,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Lees verder"
   - image_path: /assets/media/posts/2019-06-12_FactcheckKinderleukemieHoogspanning.jpg
-    image_caption: "12 Juni, 2019"
+    image_caption: "12 juni, 2019"
     alt: "Knack Factcheckers: hoogspanning & kinderleukemie"
     title: "Knack Factcheckers: hoogspanning & kinderleukemie"
     excerpt: "Rubriek Factcheckers van Knack bevestigd het statische verband tussen nabij hoogspanning wonen en kinderleukemie."
@@ -76,7 +84,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Lees verder"
   - image_path: /assets/media/posts/2019-06-05-GemeenteJabbekeNegatiefAdvies.jpg
-    image_caption: "5 Juni, 2019"
+    image_caption: "5 juni, 2019"
     alt: "Gemeente Jabbeke geeft negatief advies"
     title: "Gemeente Jabbeke geeft negatief advies"
     excerpt: "Gemeente Jabbeke verleend negatief advies aan de Vlaamse overheid omtrent project Ventilus."
@@ -84,7 +92,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Lees verder"
   - image_path: /assets/media/posts/2019-05-28_ArdooieTegenHoogspanning.jpg
-    image_caption: "28 Mei, 2019"
+    image_caption: "28 mei, 2019"
     alt: "Ook Ardooie gekant tegen komst hoogspanningslijn langs E403"
     title: "Ook Ardooie gekant tegen komst hoogspanningslijn langs E403"
     excerpt: "De plannen om hoogspanningslijn Ventilus langs de E403 aan te leggen en dus ook over Ardoois grondgebied te laten passeren, valt niet in goede aarde bij meerderheid en oppositie."
@@ -92,7 +100,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Lees verder"
   - image_path: /assets/media/posts/2019-05-23_PetitieGemeenteZedelgem.jpg
-    image_caption: "23 Mei, 2019"
+    image_caption: "23 mei, 2019"
     alt: "Petitie ingediend bij gemeentebestuur Zedelgem"
     title: "Petitie ingediend bij gemeentebestuur Zedelgem"
     excerpt: "Vanuit burgerplatform Begraaf Ventilus is een petitie opgestart en overhandigd aan het gemeentebestuur van Zedelgem."
@@ -100,7 +108,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Lees verder"
   - image_path: /assets/media/posts/2019-05-22_OnrustBewonersZedelgem.jpg
-    image_caption: "22 Mei, 2019"
+    image_caption: "22 mei, 2019"
     alt: "Onrust inwoners Zedelgem"
     title: "Onrust inwoners Zedelgem"
     excerpt: "Na Lichtervelde groeit nu ook in Zedelgem het protest tegen het Ventilusproject van netbeheerder Elia."
