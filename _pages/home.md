@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-  image: /assets/media/home/MainImage.png
+  image: /assets/media/home/MainImage.jpg
 feature_row_center:
   - image_path: /assets/media/posts/2020-01-03_StatusUpdate.jpg
     image_caption: "3 januari, 2020"
