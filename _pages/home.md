@@ -3,7 +3,16 @@ layout: splash
 permalink: /
 header:
   image: /assets/media/home/MainImage.jpg
-feature_row_center:
+# feature_row_center:
+feature_row:
+  - image_path: /assets/media/posts/2020-06-22_tis-niet-omdat-het-stil-is.jpeg
+    image_caption: "22 juni, 2020"
+    alt: "'t Is niet omdat het stil is..."
+    title: "'t Is niet omdat het stil is..."
+    excerpt: "“hoe zit het nu eigenlijk met die hoogspanning?” … was een veel gehoorde en terechte vraag. Het was inderdaad wat stil de voorbije maanden en zeker nu, in deze pittige coronatijden."
+    url: "/nieuws/2020-01-03-tis-niet-omdat-het-stil-is/"
+    btn_class: "btn--primary"
+    btn_label: "Lees verder"
   - image_path: /assets/media/posts/2020-01-03_StatusUpdate.jpg
     image_caption: "3 januari, 2020"
     alt: "Stand van zaken"
@@ -20,7 +29,6 @@ feature_row_center:
     url: "/nieuws/2019-08-03-als-een-bioboer-in-een-oude-diesel/"
     btn_class: "btn--primary"
     btn_label: "Lees verder"
-feature_row:
   - image_path: /assets/media/posts/2019-06-20_ProvincieTegenHoogspanning.png
     image_caption: "20 juni, 2019"
     alt: "Provincie verleent Ventilus negatief advies"
@@ -47,5 +55,5 @@ feature_row:
     btn_label: "Lees verder"
 ---
 
-{% include feature_row id="feature_row_center" type="center" %}
+<!-- {% include feature_row id="feature_row_center" type="center" %} -->
 {% include feature_row %}

@@ -4,3 +4,9 @@
 
 to run locally: 
 `bundle exec jekyll serve`
+
+## Adding a new post
+- image scaled 3:2
+- addd under _posts
+- add on home page
+- add on nieuws page
