@@ -10,3 +10,10 @@ to run locally:
 - addd under _posts
 - add on home page
 - add on nieuws page
+
+
+## Working anonymously
+```
+git config user.name 'Anonymous'
+git config user.email '<>'
+```
