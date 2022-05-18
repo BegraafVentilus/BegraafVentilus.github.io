@@ -16,7 +16,7 @@ We hebben hier uiteraard begrip voor, ze doen dit vaak uit oprechte liefde voor 
 Er wordt echter ook soms heel kort door de bocht gegaan en wetenschappelijke feiten die niet in het kraam passen worden geminimaliseerd of anders voorgsteld dan ze zijn.
 Bij Dhr. Laveyne hebben we in de afgelopen weken een aantal dergerlijke feiten vast gesteld, vandaar dat we graag zouden reageren via deze open brief.
 
-<blockquote>
+<i>
 Beste Hr. Laveyne,</br>
 </br>
 U lijkt de laatste weken overal op te duiken als energie expert van de UGent om uw visie op het Ventilus project te verkondigen.</br> 
@@ -45,4 +45,4 @@ Maar goed, u hebt eigenlijk geen wetenschap nodig als het over gezondheid gaat, 
 </br>
 Met vriendelijke groeten</br>
 De burger- en ondernemersplatformen, die net zoals u, voorstander zijn van Ventilus, maar wel op een duurzame en gezonde manier.
-</blockquote>
+</i>
