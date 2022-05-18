@@ -17,3 +17,7 @@ to run locally:
 git config user.name 'Anonymous'
 git config user.email '<>'
 ```
+
+## Stack setup
+
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll
