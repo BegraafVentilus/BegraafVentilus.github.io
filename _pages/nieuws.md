@@ -4,7 +4,7 @@ permalink: /nieuws/
 title: "Nieuws"
 feature_row:
   - image_path: /assets/media/posts/2020-06-22_tis-niet-omdat-het-stil-is.jpeg
-    image_caption: "19 mei, 2020"
+    image_caption: "19 mei, 2022"
     alt: "Open brief aan Dhr. Laveyne"
     title: "Open brief aan Dhr. Laveyne"
     excerpt: "Nu de beslissing rond het project dichter aan het komen is merken we dat de druk op de minister om toe te geven aan Elia enorm aan het toenemen is"
