@@ -9,12 +9,11 @@ published: true
 author: Begraaf Ventilus
 ---
 ![QuietField]({{ site.url }}{{ site.baseurl }}/assets/media/posts/2020-06-22_tis-niet-omdat-het-stil-is.jpeg)
-Met verschillend burgerplatformen zijn wij al een aantal jaar constructief aan het mee denken rond het Ventilus project.
-Nu de beslissing rond het project dichter aan het komen is merken we dat de druk op de minister om toe te geven aan Elia enorm aan het toenemen is.
-We merken dat er ook experten/wetenschappers ingeschakeld worden waarmee Elia nauw samen werkt. Die zijn vaak heel enthousiast om dit project te verdedigen.
-We hebben hier uiteraard begrip voor, ze doen dit vaak uit oprechte liefde voor hun vak en uit overtuiging.
-Er wordt echter ook soms heel kort door de bocht gegaan en wetenschappelijke feiten die niet in het kraam passen worden geminimaliseerd of anders voorgsteld dan ze zijn.
-Bij Dhr. Laveyne hebben we in de afgelopen weken een aantal dergerlijke feiten vast gesteld, vandaar dat we graag zouden reageren via deze open brief.
+Met verschillend burgerplatformen zijn wij al een aantal jaar constructief aan het mee denken rond het Ventilus project. Nu de beslissing rond het project dichter aan het komen is merken we dat de druk op de minister om toe te geven aan Elia enorm aan het toenemen is.
+
+We merken dat er ook experten/wetenschappers ingeschakeld worden waarmee Elia nauw samen werkt. Die zijn vaak heel enthousiast om dit project te verdedigen. We hebben hier uiteraard begrip voor, ze doen dit vaak uit oprechte liefde voor hun vak en uit overtuiging.
+
+Er wordt echter ook soms heel kort door de bocht gegaan en wetenschappelijke feiten die niet in het kraam passen worden geminimaliseerd of anders voorgsteld dan ze zijn. Bij Dhr. Laveyne hebben we in de afgelopen weken een aantal dergerlijke feiten vast gesteld, vandaar dat we graag zouden reageren via deze open brief.
 
 *Beste Hr. Laveyne,*
 
@@ -43,4 +42,5 @@ Bij Dhr. Laveyne hebben we in de afgelopen weken een aantal dergerlijke feiten v
 *Maar goed, u hebt eigenlijk geen wetenschap nodig als het over gezondheid gaat, we zagen op twitter dat u een ervaringsdeskundige bent, u schreeft namelijk vol trots: "ik heb zelf 25 jaar nabij een hoogspanningslijn gewoond en ben er niet gekker door geworden dan ik al was". Heerlijk luchtig en past perfect in het rijtje van uitspraken als "mijn nonkel Jef rookt al 60 jaar, dus zo kankerverwekkend zal dat wel niet zijn" of "ik eet al 20 jaar elke morgen een PFOS eitje en een groter kieken ben ik er niet door geworden". Lang leve de wetenschap!*
 
 *Met vriendelijke groeten*
+
 *De burger- en ondernemersplatformen, die net zoals u, voorstander zijn van Ventilus, maar wel op een duurzame en gezonde manier.*
