@@ -2,7 +2,7 @@
 layout: single
 permalink: /nieuws/2022-05-19-open-brief-dhr-laveyne/
 title: "Open brief aan Dhr. Laveyne"
-date: 2022-05-19 12:00:00 +0000
+date: 2022-05-18 12:00:00 +0000
 published: true
 # categories: ["None"]
 # tags: ["Zedelgem"]
