@@ -8,7 +8,7 @@ published: true
 # tags: ["Zedelgem"]
 author: Begraaf Ventilus
 ---
-![QuietField]({{ site.url }}{{ site.baseurl }}/assets/media/posts/2020-06-22_tis-niet-omdat-het-stil-is.jpeg)
+![QuietField]({{ site.url }}{{ site.baseurl }}/assets/media/posts/2022-05-19-open-brief.png)
 Met verschillend burgerplatformen zijn wij al een aantal jaar constructief aan het mee denken rond het Ventilus project. Nu de beslissing rond het project dichter aan het komen is merken we dat de druk op de minister om toe te geven aan Elia enorm aan het toenemen is.
 
 We merken dat er ook experten/wetenschappers ingeschakeld worden waarmee Elia nauw samen werkt. Die zijn vaak heel enthousiast om dit project te verdedigen. We hebben hier uiteraard begrip voor, ze doen dit vaak uit oprechte liefde voor hun vak en uit overtuiging.

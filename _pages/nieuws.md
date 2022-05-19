@@ -3,7 +3,7 @@ layout: splash
 permalink: /nieuws/
 title: "Nieuws"
 feature_row:
-  - image_path: /assets/media/posts/2020-06-22_tis-niet-omdat-het-stil-is.jpeg
+  - image_path: /assets/media/posts/2022-05-19-open-brief.png
     image_caption: "19 mei, 2022"
     alt: "Open brief aan Dhr. Laveyne"
     title: "Open brief aan Dhr. Laveyne"
