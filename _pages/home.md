@@ -5,20 +5,20 @@ header:
   image: /assets/media/home/MainImage.jpg
 # feature_row_center:
 feature_row:
+  - image_path: /assets/media/posts/2023-08-18_GRUP.png
+    image_caption: "18 augustus, 2023"
+    alt: "GRUP fase"
+    title: "GRUP Fase"
+    excerpt: "Zoals jullie wellicht vernomen hebben via de media zit het Ventilus project in een volgende fase."
+    url: "/nieuws/2022-05-19-open-brief-dhr-laveyne/"
+    btn_class: "btn--primary"
+    btn_label: "Lees verder"
   - image_path: /assets/media/posts/2022-05-19-open-brief.png
     image_caption: "19 mei, 2022"
     alt: "Open brief aan Dhr. Laveyne"
     title: "Open brief aan Dhr. Laveyne"
     excerpt: "Nu de beslissing rond het project dichter aan het komen is merken we dat de druk op de minister om toe te geven aan Elia enorm aan het toenemen is"
     url: "/nieuws/2022-05-19-open-brief-dhr-laveyne/"
-    btn_class: "btn--primary"
-    btn_label: "Lees verder"
-  - image_path: /assets/media/posts/2020-01-03_StatusUpdate.jpg
-    image_caption: "3 januari, 2020"
-    alt: "Stand van zaken"
-    title: "Stand van zaken"
-    excerpt: "Bij het begin van dit nieuwe jaar geven we jullie graag een korte update rond de activiteit in het Ventilus project."
-    url: "/nieuws/2020-01-03-Stand-van-zaken/"
     btn_class: "btn--primary"
     btn_label: "Lees verder"
   - image_path: /assets/media/posts/2019-08-03_BioboerOudeDiesel.jpg
