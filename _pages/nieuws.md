@@ -8,7 +8,7 @@ feature_row:
     alt: "GRUP fase"
     title: "GRUP Fase"
     excerpt: "Zoals jullie wellicht vernomen hebben via de media zit het Ventilus project in een volgende fase."
-    url: "/nieuws/2022-05-19-open-brief-dhr-laveyne/"
+    url: "/nieuws/2023-08-18-GRUP-1/"
     btn_class: "btn--primary"
     btn_label: "Lees verder"
   - image_path: /assets/media/posts/2022-05-19-open-brief.png
@@ -16,7 +16,7 @@ feature_row:
     alt: "Open brief aan Dhr. Laveyne"
     title: "Open brief aan Dhr. Laveyne"
     excerpt: "Nu de beslissing rond het project dichter aan het komen is merken we dat de druk op de minister om toe te geven aan Elia enorm aan het toenemen is"
-    url: "/nieuws/2023-08-18-GRUP-1/"
+    url: "/nieuws/2022-05-19-open-brief-dhr-laveyne/"
     btn_class: "btn--primary"
     btn_label: "Lees verder"
   - image_path: /assets/media/posts/2020-01-03_StatusUpdate.jpg
