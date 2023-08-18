@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /nieuws/2023-08-18-GRUP-1/
-title: "GRUP fase"
+permalink: /nieuws/2023-08-18-openbaaronderzoekfase/
+title: "Openbaar onderzoek"
 date: 2023-08-18 12:00:00 +0000
 published: true
 # categories: ["None"]
@@ -9,7 +9,7 @@ published: true
 author: Begraaf Ventilus
 ---
 ![Clock]({{ site.url }}{{ site.baseurl }}/assets/media/posts/2023-08-18_GRUP.png)
-Zoals jullie wellicht vernomen hebben via de media zit het Ventilus project in een volgende fase.
+Zoals jullie wellicht vernomen hebben via de media zit het Ventilus project in een volgende fase, 'openbaar onderzoek'. 
 
 Er werd een voorlopige vaststelling van het GRUP (Gewestelijk ruimtelijk uitvoeringsplan) gedaan door de Vlaamse overheid, wat wil zeggen dat de procedure in de volgende stap zit.
 
