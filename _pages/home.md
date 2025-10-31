@@ -10,7 +10,7 @@ feature_row:
     alt: "Openbaar onderzoek gestart"
     title: "Openbaar onderzoek gestart"
     excerpt: "Het openbaar onderzoek over het Ventilus-project is officieel gestart."
-    url: "/nieuws/2025-10-31-openbaaronderzoekgestart/"
+    url: "/nieuws/2025-10-31-openbaar-onderzoek-gestart/"
     btn_class: "btn--primary"
     btn_label: "Lees verder"
   - image_path: /assets/media/posts/2022-05-19-open-brief.png

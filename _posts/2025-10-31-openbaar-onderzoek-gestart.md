@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /nieuws/2025-10-31-openbaaronderzoekgestart/
+permalink: /nieuws/2025-10-31-openbaar-onderzoek-gestart/
 title: "Openbaar onderzoek gestart"
 date: 2025-11-31 06:00:00 +0000
 published: true
