@@ -8,7 +8,7 @@ published: true
 # tags: ["Zedelgem"]
 author: Begraaf Ventilus
 ---
-![Clock]({{ site.url }}{{ site.baseurl }}/assets/media/posts/2023-08-18_GRUP.png)
+![Clock]({{ site.url }}{{ site.baseurl }}/assets/media/posts/2020-01-03_StatusUpdate)
 Het openbaar onderzoek over het Ventilus-project is officieel gestart. 
 
 Dit is het moment voor burgers om hun mening te geven en eventueel bezwaren in te dienen.
