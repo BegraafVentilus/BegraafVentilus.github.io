@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /nieuws/2025-10-31-openbaarOnderzoekGestart/
+permalink: /nieuws/2025-10-31-openbaaronderzoekgestart/
 title: "Openbaar onderzoek gestart"
 date: 2025-11-31 06:00:00 +0000
 published: true
@@ -8,7 +8,7 @@ published: true
 # tags: ["Zedelgem"]
 author: Begraaf Ventilus
 ---
-![Clock]({{ site.url }}{{ site.baseurl }}/assets/media/posts/2020-01-03_StatusUpdate)
+![Clock]({{ site.url }}{{ site.baseurl }}/assets/media/posts/2020-01-03_StatusUpdate.jpg)
 Het openbaar onderzoek over het Ventilus-project is officieel gestart. 
 
 Dit is het moment voor burgers om hun mening te geven en eventueel bezwaren in te dienen.

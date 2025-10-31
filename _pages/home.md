@@ -5,12 +5,12 @@ header:
   image: /assets/media/home/MainImage.jpg
 # feature_row_center:
 feature_row:
-  - image_path: /assets/media/posts/2020-01-03_StatusUpdate
+  - image_path: /assets/media/posts/2020-01-03_StatusUpdate.jpg
     image_caption: "31 oktober, 2025"
     alt: "Openbaar onderzoek gestart"
     title: "Openbaar onderzoek gestart"
     excerpt: "Het openbaar onderzoek over het Ventilus-project is officieel gestart."
-    url: "/nieuws/2025-10-31-openbaarOnderzoekGestart/"
+    url: "/nieuws/2025-10-31-openbaaronderzoekgestart/"
     btn_class: "btn--primary"
     btn_label: "Lees verder"
   - image_path: /assets/media/posts/2022-05-19-open-brief.png
