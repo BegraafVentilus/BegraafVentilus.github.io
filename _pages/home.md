@@ -5,7 +5,7 @@ header:
   image: /assets/media/home/MainImage.jpg
 # feature_row_center:
 feature_row:
-  - image_path: /assets/media/posts/2025-08-18_GRUP.png
+  - image_path: /assets/media/posts/2023-08-18_GRUP.png
     image_caption: "31 oktober, 2025"
     alt: "Openbaar onderzoek gestart"
     title: "Openbaar onderzoek gestart"
