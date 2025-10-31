@@ -2,7 +2,7 @@
 layout: single
 permalink: /nieuws/2025-10-31-openbaarOnderzoekGestart/
 title: "Openbaar onderzoek gestart"
-date: 2025-11-31 08:00:00 +0000
+date: 2025-11-31 06:00:00 +0000
 published: true
 # categories: ["None"]
 # tags: ["Zedelgem"]
