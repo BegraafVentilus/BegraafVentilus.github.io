@@ -5,12 +5,12 @@ header:
   image: /assets/media/home/MainImage.jpg
 # feature_row_center:
 feature_row:
-  - image_path: /assets/media/posts/2023-08-18_GRUP.png
-    image_caption: "18 augustus, 2023"
-    alt: "Openbaar onderzoek"
-    title: "Openbaar onderzoek"
-    excerpt: "Zoals jullie wellicht vernomen hebben via de media zit het Ventilus project in een volgende fase."
-    url: /nieuws/2023-08-18-openbaaronderzoekfase/
+  - image_path: /assets/media/posts/2025-08-18_GRUP.png
+    image_caption: "31 oktober, 2025"
+    alt: "Openbaar onderzoek gestart"
+    title: "Openbaar onderzoek gestart"
+    excerpt: "Het openbaar onderzoek over het Ventilus-project is officieel gestart."
+    url: /nieuws/2025-10-31-openbaarOnderzoekGestart/
     btn_class: "btn--primary"
     btn_label: "Lees verder"
   - image_path: /assets/media/posts/2022-05-19-open-brief.png
