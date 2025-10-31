@@ -12,14 +12,18 @@ author: Begraaf Ventilus
 Het openbaar onderzoek over het Ventilus-project is officieel gestart. 
 
 Dit is het moment voor burgers om hun mening te geven en eventueel bezwaren in te dienen.
-➡️ Meer info: https://www.elia.be/nl/infrastructuur-en-projecten/infrastructuurprojecten/ventilus/20251030-openbaar-onderzoek-van-8-november-tot-en-met-7-december￼
+
+➡️ Meer info: [https://www.elia.be/nl/infrastructuur-en-projecten/infrastructuurprojecten/ventilus/20251030-openbaar-onderzoek-van-8-november-tot-en-met-7-december](https://www.elia.be/nl/infrastructuur-en-projecten/infrastructuurprojecten/ventilus/20251030-openbaar-onderzoek-van-8-november-tot-en-met-7-december)
 
 💡 Infosessies van Elia
 Elia organiseert binnenkort meerdere infosessies. Inschrijven is verplicht.
+
 👉 Voor inwoners van Zedelgem is de infosessie op **woensdag 5 november** extra belangrijk — laat deze kans niet voorbijgaan!
 
 🤝 Onze eigen infosessie
 Vanuit ons burgerplatform plannen we binnenkort een eigen infosessie om **ondersteuning te bieden bij het indienen van bezwaren**.
+
+
 📅 De exacte datum volgt snel!
 
 Laat je stem horen — samen maken we het verschil.
